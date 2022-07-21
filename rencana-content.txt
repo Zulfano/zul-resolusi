@@ -1,4 +1,6 @@
 Rencana Konten
 - PHP
 - Javascript
+  * ES 6
+  * DOM
 - Git & Github
