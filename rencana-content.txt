@@ -3,4 +3,7 @@ Rencana Konten
 - Javascript
   * ES 6
   * DOM
+   ^ Vue
+   ^ React
+- Dasar Data Struktur
 - Git & Github
