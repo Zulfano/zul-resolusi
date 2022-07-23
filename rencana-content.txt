@@ -1,6 +1,10 @@
 Rencana Konten
 - PHP
+  ^ Laravel
+  ^ CodeIgniter
 - Javascript
   * ES 6
   * DOM
+   ^ Angular
+   ^ React
 - Git & Github
